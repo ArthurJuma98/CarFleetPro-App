@@ -5,7 +5,7 @@ TECHNOLOGIES USED :
 Python
 Django
 HTML
-Tallwind CSS
+Tailwind CSS
 SQLite Library
 
 
